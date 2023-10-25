@@ -1,0 +1,10 @@
+#fname_val,#lname_val,#uname_val,#email_val,#pass_val,#cpass_val{
+    display: none;
+    color: red;
+    font-weight: bold;
+}
+
+#table-text{
+    display: none;
+    font-weight: bold;
+}
